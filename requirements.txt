@@ -1,0 +1,6 @@
+openai
+gradio
+sounddevice
+schedule
+wavio
+httpx==0.24.1
