@@ -6,7 +6,7 @@ For this tool, we consider the context of a sales representative in the Spanish 
 
 Contact: adrida.github.io
 Link to Medium article
-
+![Sales Whisperer Schema](https://github.com/adrida/AI-Sales-Whisperer/blob/master/saleswhisperer.png?raw=true) 
 
 More on how the tool works is below.
 
